@@ -6,6 +6,10 @@ Here are some exceptional quotes.
 
 – GolfingSuccess
 
+> jelly is really just a game of atom hide and programmer seek
+
+– totallyhuman
+
 > Copy and Paste and Pray it works
 
 – DJMcMayhem
