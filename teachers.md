@@ -4,8 +4,8 @@ Teachers are assistants through the course of learning about the Jelly language,
 
 |PPCG name|GitHub @username|Honorary degree|Experience level|
 |---------|----------------|------------------|----------------|
-|Erik the Outgolfer|Έρικ Κωνσταντόπουλος ([@GolfingSuccess](https://github.com/GolfingSuccess))|Creator of Jelly Hypertraining|Aged|
-|Leaky Nun|Kenny Lau ([@kckennylau](https://github.com/kckennylau))|Active Teacher of All Time|Aged|
+|[Erik the Outgolfer](https://codegolf.stackexchange.com/users/41024/erik-the-outgolfer)|Έρικ Κωνσταντόπουλος ([@GolfingSuccess](https://github.com/GolfingSuccess))|Creator of Jelly Hypertraining|Aged|
+|[Leaky Nun](https://codegolf.stackexchange.com/users/48934/leaky-nun)|Kenny Lau ([@kckennylau](https://github.com/kckennylau))|Active Teacher of All Time|Aged|
 
 Currently there are no retired teachers.
 
