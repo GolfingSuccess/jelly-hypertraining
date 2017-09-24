@@ -1,2 +1,8 @@
-# jelly-hypertraining
-Resources related to [Jelly Hypertraining](https://chat.stackexchange.com/rooms/57815/jelly-hypertraining).
+# Jelly Hypertraining resources
+
++ [Rules](rules.md)
++ [References+Utilities](help-stuff.md)
++ [Students](students.md)
++ [Teachers](teachers.md)
++ [Exercises](challenges.md)
++ [Exceptional quotes](quotes.md)
