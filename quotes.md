@@ -8,8 +8,8 @@ Here are some exceptional quotes.
 
 > jelly is really just a game of atom hide and programmer seek
 
-– totallyhuman
+[– totallyhuman](https://chat.stackexchange.com/transcript/message/39070837#39070837)
 
 > Copy and Paste and Pray it works
 
-– DJMcMayhem
+[– DJMcMayhem](https://chat.stackexchange.com/transcript/message/39749228#39749228)
