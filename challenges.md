@@ -1,4 +1,4 @@
-<!-- NOTE: Code is indented with two spaces, DO NOT remove them! It will break the GitHub Pages rendered output. -->
+<!-- NOTE: Code is indented with two spaces, DO NOT remove them! It will break the GitHub Pages rendered output. Those spaces do not appear there, and you're not intended to read the file from here. ;) -->
 
 # List of easy-to-medium challenges you can try
 
