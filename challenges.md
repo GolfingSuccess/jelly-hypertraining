@@ -16,7 +16,7 @@ The bytecount is the minimum bytecount users in this class have been able to get
 + Find Nth Fibonacci number (e.g. f(100)=354224848179261915075) *Minimum needed bytes: 2*
 + Create an N×M 2D array (list of lists) of anything. Even inconsistent values are allowed. Example for f(5, 4):
 ```
-[[1, 3, 1, 4, 8888], [[1, 2], 3, '@', 0, -9999999999999], ['', '', 1j, (1+2j), ['l', 'l', 'a', 'm', 'a']], [1, 2, 3, 4, 5]]
+  [[1, 3, 1, 4, 8888], [[1, 2], 3, '@', 0, -9999999999999], ['', '', 1j, (1+2j), ['l', 'l', 'a', 'm', 'a']], [1, 2, 3, 4, 5]]
 ```
 *(Minimum needed bytes: 2)*
 + Reverse a list (e.g. f([1, 2, 'a', ['b', 'c']])=[['b', 'c'], 'a', 2, 1]) *Minimum needed bytes: 1*
