@@ -21,7 +21,7 @@ The bytecount is the minimum bytecount users in this class have been able to get
 + Find 1/N (e.g. f(5)=0.2) *Minimum needed bytes: 1*
 + Given a prime number N, find the prime after N (e.g. f(47)=53) *Minimum needed bytes: 2*
 + Find the largest list of consecutive positive integers that sum to N (e.g. f(100)=[9, 10, 11, 12, 13, 14, 15, 16]) *Minimum needed bytes: 5*
-+ Same as above, but in compact form [min, max] or [max, min], even if min == max. (e.g. f(100)=[9, 16]) *Minimum needed bytes: 10*
++ Same as above, but in compact form [min, max] or [max, min], even if min == max. (e.g. f(100)=[9, 16]) *Minimum needed bytes: 7*
 + Draw a diagonal line from top-left to bottom-right, using space as padding and a consistent non-whitespace char as the line. Example for f(10):
 ```
 \
