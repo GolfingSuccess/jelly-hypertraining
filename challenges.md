@@ -1,3 +1,5 @@
+<!-- NOTE: Code is indented with two spaces, DO NOT remove them! It will break the GitHub Pages rendered output. -->
+
 # List of easy-to-medium challenges you can try
 
 The bytecount is the minimum bytecount users in this class have been able to get to, but you should feel free to outgolf or notice a new feature that lets you golf any one of these further. If you do, please ping a teacher so that the bytecount can be updated. Here is a list with challenges:
@@ -24,8 +26,6 @@ The bytecount is the minimum bytecount users in this class have been able to get
 + Same as above, but in compact form [min, max] or [max, min], even if min == max. (e.g. f(100)=[9, 16]) *Minimum needed bytes: 7*
 + Draw a diagonal line from top-left to bottom-right, using space as padding and a consistent non-whitespace char as the line. Example for f(10):
 ```
-\
- \
   \
    \
     \
@@ -34,74 +34,76 @@ The bytecount is the minimum bytecount users in this class have been able to get
        \
         \
          \
+          \
+           \
 ```
 *(Minimum needed bytes: 5)*
 + Draw an X with odd-length diagonals, using space as padding and a consistent non-whitespace char as the X. You won't have to handle even lengths. Example for f(7):
 ```
-X     X
- X   X
-  X X
-   X
-  X X
- X   X
-X     X
+  X     X
+   X   X
+    X X
+     X
+    X X
+   X   X
+  X     X
 ```
 *(Minimum needed bytes: 8)*
 + Draw an N×N checkerboard with white top-left square. Use space for white and a consistent non-whitespace char for black. Trailing spaces not required. Example for f(8):
 ```
- # # # #
-# # # #
- # # # #
-# # # #
- # # # #
-# # # #
- # # # #
-# # # #
+   # # # #
+  # # # #
+   # # # #
+  # # # #
+   # # # #
+  # # # #
+   # # # #
+  # # # #
 ```
 *(Minimum needed bytes: 7)*
 + Same as above, but with black top-left square instead. Example for f(8):
 ```
-# # # # 
- # # # #
-# # # # 
- # # # #
-# # # # 
- # # # #
-# # # # 
- # # # #
+  # # # # 
+   # # # #
+  # # # # 
+   # # # #
+  # # # # 
+   # # # #
+  # # # # 
+   # # # #
 ```
 *(Minimum needed bytes: 7)*
 + Draw a right triangle with equal perpendicular sides of length N. You must use a not necessarily consistent non-whitespace char. Example for f(5):
 ```
-#
-##
-###
-####
-#####
-####
-###
-##
-#
+  #
+  ##
+  ###
+  ####
+  #####
+  ####
+  ###
+  ##
+  #
 ```
 *(Minimum needed bytes: 5)*
 + Draw a square with side length N (not necessarily consistent non-whitespace char). Example for f(9):
 ```
-#########
-#########
-#########
-#########
-#########
-#########
-#########
-#########
-#########
+  #########
+  #########
+  #########
+  #########
+  #########
+  #########
+  #########
+  #########
+  #########
 ```
 *(Minimum needed bytes: 4)*
 + Draw a rectangle with side lengths N×M (not necessarily consistent non-whitespace char). Example for f(4, 3):
 ```
-####
-####
-####
+  ####
+  ####
+  ####
 ```
 *(Minimum needed bytes: 3)*
 + Find the average (e.g. f([1.5, 2.33, 3.1010101, 3.14])=2.517752525) *Minimum needed bytes: 2*
