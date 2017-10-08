@@ -32,9 +32,14 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 
 ### What do the different levels mean?
 
-0. **Admirer**: Has never worked on anything with Jelly, only admiring it.
-1. **Beginner**: Done their first program in Jelly.
-2. **Challenged**: Committed to learning Jelly.
-3. **Progressed**: Unstoppable!
-4. **Finalist**: *Aaaaaalmost* an expert! A *liiiiitle* bit and you're done!
-5. **Expert**: A fellow student, now eligible to be promoted to a teacher!
+0: **Admirer**: Has never worked on anything with Jelly, only admiring it.
+
+1: **Beginner**: Done their first program in Jelly.
+
+2: **Challenged**: Committed to learning Jelly.
+
+3: **Progressed**: Unstoppable!
+
+4: **Finalist**: *Aaaaaalmost* an expert! A *liiiiitle* bit and you're done!
+
+5: **Expert**: A fellow student, now eligible to be promoted to a teacher!
