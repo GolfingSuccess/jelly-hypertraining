@@ -13,3 +13,7 @@ Here are some exceptional quotes.
 > Copy and Paste and Pray it works
 
 [– DJMcMayhem](https://chat.stackexchange.com/transcript/message/39749228#39749228)
+
+> Jelly is literally just a form of pure art.
+
+[– Mr-Xcoder](https://chat.stackexchange.com/transcript/message/40428197#40428197)
