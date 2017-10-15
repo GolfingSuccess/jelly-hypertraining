@@ -10,7 +10,7 @@ Here are some exceptional quotes.
 
 [– totallyhuman](https://chat.stackexchange.com/transcript/message/39070837#39070837)
 
-> Copy and Paste and Pray it works
+> New proposed Jelly Motto: Copy and Paste and Pray it works
 
 [– DJMcMayhem](https://chat.stackexchange.com/transcript/message/39749228#39749228)
 
