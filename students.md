@@ -24,7 +24,7 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 |[ThePirateBay](https://codegolf.stackexchange.com/users/72349/thepiratebay)|[@the-pirate-bay](https://github.com/the-pirate-bay)|0|
 |[Ven](https://codegolf.stackexchange.com/users/8328/ven)|[@vendethiel](https://github.com/vendethiel)|1|
 |[Jonathan Allan](https://codegolf.stackexchange.com/users/53748/jonathan-allan)|Jonathan Allan ([@jjallan](https://github.com/jjallan))|1|
-|[J. Salle](https://codegolf.stackexchange.com/users/74163/j-salle)||0|
+|[J. Sallé](https://codegolf.stackexchange.com/users/74163/j-salle)||0|
 |[Scrooble](https://codegolf.stackexchange.com/users/73884/scrooble)||0|
 |[Ian Gödel](https://codegolf.stackexchange.com/users/74686/ian-g%C3%B6del)||1|
 |[AdmBorkBork](https://codegolf.stackexchange.com/users/42963/admborkbork)||0|
