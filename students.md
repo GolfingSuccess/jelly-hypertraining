@@ -13,7 +13,7 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 |[Christian](https://codegolf.stackexchange.com/users/70388/christian)|[@scatterclegge](https://github.com/scatterclegge)|2|
 |[DJMcMayhem](https://codegolf.stackexchange.com/users/31716/djmcmayhem)|[@DJMcMayhem](https://github.com/DJMcMayhem/)|2|
 |[officialaimm](https://codegolf.stackexchange.com/users/59523/officialaimm)|Ayush Ojha ([@officialaimm](https://github.com/officialaimm))|1|
-|[i cri everytim](https://codegolf.stackexchange.com/users/68615/i-cri-everytim)|Sumant Bhaskaruni ([@totallyhuman](https://github.com/totallyhuman))|1|
+|[totallyhuman](https://codegolf.stackexchange.com/users/68615/i-cri-everytim)|Sumant Bhaskaruni ([@totallyhuman](https://github.com/totallyhuman))|1|
 |[caird coinheringaahing](https://codegolf.stackexchange.com/users/66833/caird-coinheringaahing)|Satan's Son ([@SatansSon](https://github.com/SatansSon))|3|
 |[Qwerp-Derp](https://codegolf.stackexchange.com/users/49561/qwerp-derp)|Hanyuan Li ([@Qwerp-Derp](https://github.com/Qwerp-Derp))|1|
 |[Mr. Xcoder](https://codegolf.stackexchange.com/users/59487/mr-xcoder)|Victor Dumbrava ([@Mr-Xcoder](https://github.com/Mr-Xcoder))|3|
