@@ -14,7 +14,7 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 |[DJMcMayhem](https://codegolf.stackexchange.com/users/31716/djmcmayhem)|[@DJMcMayhem](https://github.com/DJMcMayhem/)|2|
 |[officialaimm](https://codegolf.stackexchange.com/users/59523/officialaimm)|Ayush Ojha ([@officialaimm](https://github.com/officialaimm))|1|
 |[totallyhuman](https://codegolf.stackexchange.com/users/68615/i-cri-everytim)|Sumant Bhaskaruni ([@totallyhuman](https://github.com/totallyhuman))|1|
-|[caird coinheringaahing](https://codegolf.stackexchange.com/users/66833/caird-coinheringaahing)|Satan's Son ([@SatansSon](https://github.com/SatansSon))|3|
+|[caird coinheringaahing](https://codegolf.stackexchange.com/users/66833/caird-coinheringaahing)|cairdcoinheringaahing ([@cairdcoinheringaahing](https://github.com/cairdcoinheringaahing))|3|
 |[Qwerp-Derp](https://codegolf.stackexchange.com/users/49561/qwerp-derp)|Hanyuan Li ([@Qwerp-Derp](https://github.com/Qwerp-Derp))|1|
 |[Mr. Xcoder](https://codegolf.stackexchange.com/users/59487/mr-xcoder)|Victor Dumbrava ([@Mr-Xcoder](https://github.com/Mr-Xcoder))|3|
 |[Noah Cristino](https://codegolf.stackexchange.com/users/61877/noah-cristino)|Noah Cristino ([@NoahCristino](https://github.com/NoahCristino))|1|
@@ -22,7 +22,7 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 |[Downgoat](https://codegolf.stackexchange.com/users/40695/downgoat)|Vihan ([@vihanb](https://github.com/vihanb))|0|
 |[clap](https://codegolf.stackexchange.com/users/41447/clap)||1|
 |[ThePirateBay](https://codegolf.stackexchange.com/users/72349/thepiratebay)|[@the-pirate-bay](https://github.com/the-pirate-bay)|0|
-|[Ven](https://codegolf.stackexchange.com/users/8328/ven)|[@vendethiel](https://github.com/vendethiel)|1|
+|[Ven](https://codegolf.stackexchange.com/users/8328/ven)|ven ([@vendethiel](https://github.com/vendethiel))|1|
 |[Jonathan Allan](https://codegolf.stackexchange.com/users/53748/jonathan-allan)|Jonathan Allan ([@jjallan](https://github.com/jjallan))|1|
 |[J. Sallé](https://codegolf.stackexchange.com/users/74163/j-salle)||0|
 |[Scrooble](https://codegolf.stackexchange.com/users/73884/scrooble)||0|
