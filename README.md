@@ -9,4 +9,6 @@ This is a list with various resources for Jelly Hypertraining. The teachers can 
 + [Exercises](challenges.md)
 + [Exceptional quotes](quotes.md)
 
+Please note that **TIOBot is not supported yet**.
+
 The GitHub repo where you can open pull requests and issues is [here](https://github.com/GolfingSuccess/jelly-hypertraining).
