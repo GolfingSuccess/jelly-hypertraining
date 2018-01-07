@@ -10,6 +10,8 @@ The bytecount is the minimum bytecount users in this class have been able to get
 + Divide two numbers (e.g. f(3, 2)=1.5) *Minimum needed bytes: 1*
 + Integer-divide two numbers (e.g. f(9, 4)=2) *Minimum needed bytes: 1*
 + Modulo two numbers (e.g. f(100, 57)=43) *Minimum needed bytes: 1*
++ Exponentiate two numbers (e.g. f(6, 6)=46656) *Minimum needed bytes: 1*
++ N-root two numbers (e.g. f(134217728, 9)=8) *Minimum needed bytes: 3*
 + Negate a number (e.g. f(600)=-600, f(-5)=5) *Minimum needed bytes: 1*
 + Find the absolute value (e.g. f(-8192)=8192, f(11)=11) *Minimum needed bytes: 1*
 + Find Nth prime number (e.g. f(15)=47) *Minimum needed bytes: 2*
