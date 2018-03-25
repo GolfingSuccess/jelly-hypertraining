@@ -29,6 +29,8 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 |[Ian Gödel](https://codegolf.stackexchange.com/users/74686/ian-g%C3%B6del)||1|
 |[AdmBorkBork](https://codegolf.stackexchange.com/users/42963/admborkbork)||0|
 |[Lynn](https://chat.stackexchange.com/users/136994/lynn)|Lynn ([@lynn](https://github.com/lynn))|0|
+|[Bijan](https://codegolf.stackexchange.com/users/66907/bijan)||0|
+|[John Militer](https://codegolf.stackexchange.com/users/70852/john-militer)||0|
 
 ~~Striked~~ students means that their account has been deleted, or they have left the classroom.
 
