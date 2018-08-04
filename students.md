@@ -24,8 +24,10 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 |[totallyhuman](https://codegolf.stackexchange.com/users/68615/i-cri-everytim)|Sumant Bhaskaruni ([@totallyhuman](https://github.com/totallyhuman))|1|
 |[Ven](https://codegolf.stackexchange.com/users/8328/ven)|ven ([@vendethiel](https://github.com/vendethiel))|1|
 |[AdmBorkBork](https://codegolf.stackexchange.com/users/42963/admborkbork)||0|
+|[betseg](https://codegolf.stackexchange.com/users/56721/betseg)|[@betseg](https://github.com/betseg)|0|
 |[Bijan](https://codegolf.stackexchange.com/users/66907/bijan)||0|
 |[Downgoat](https://codegolf.stackexchange.com/users/40695/downgoat)|Vihan ([@vihanb](https://github.com/vihanb))|0|
+|[dylnan](https://codegolf.stackexchange.com/users/75553/dylnan)|Dylan Rees ([@dylannrees](https://github.com/dylannrees))|0|
 |[J. Sallé](https://codegolf.stackexchange.com/users/74163/j-salle)||0|
 |[John Militer](https://codegolf.stackexchange.com/users/70852/john-militer)||0|
 |[Lynn](https://chat.stackexchange.com/users/136994/lynn)|Lynn ([@lynn](https://github.com/lynn))|0|
