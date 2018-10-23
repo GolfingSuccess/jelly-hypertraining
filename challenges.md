@@ -115,3 +115,9 @@ The bytecount is the minimum bytecount users in this class have been able to get
 + Find the GCD of a list of integers (e.g. f([6, 120])=6) *Minimum needed bytes: 2*
 + Simplify a fraction of the form [x, y] (e.g. f([6, 8])=[3, 4]) *Minimum needed bytes: 3*
   + Alternatively, you may take two arguments x and y (e.g. f(6, 8)=[3, 4]) *Minimum needed bytes: 3*
++ Execute Jelly code (e.g. f(['1', '+', '1'])=2) *Minimum needed bytes: 1*
++ Determine why these can be done in 0 bytes:
+ + Evaluate a valid Python literal and listify it (e.g. f(['1',','])=[1])
+ + Execute valid Python code (e.g. f(['a', '='. '1', ';', 'p', 'r', 'i', 'n', 't', '(', 'a', '+', '1', ')'])=[] plus `2\n` on STDOUT)
++ Explain why this happens:
+ + `4+×¥80¤` results in `324`.
