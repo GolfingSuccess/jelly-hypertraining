@@ -87,7 +87,7 @@ The bytecount is the minimum bytecount users in this class have been able to get
   ##
   #
 ```
-*(Minimum needed bytes: 5)*
+*(Minimum needed bytes: 4)*
 + Draw a square with side length N (not necessarily consistent non-whitespace char). Example for f(9):
 ```
   #########
