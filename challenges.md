@@ -2,7 +2,7 @@
 
 # List of easy-to-medium challenges you can try
 
-The bytecount is the minimum bytecount users in this class have been able to get to, but you should feel free to outgolf or notice a new feature that lets you golf any one of these further. If you do, please ping a teacher so that the bytecount can be updated. Here is a list with challenges:
+The bytecount is the minimum bytecount users in this class have been able to get to, but you should feel free to outgolf or notice a new feature that lets you golf any one of these further. If you do, please ping a teacher or submit a pull request so that the bytecount can be updated. Here is a list with challenges:
 
 + Add two numbers (e.g. f(1, 2)=3) *Minimum needed bytes: 1*
 + Subtract two numbers (e.g. f(5, 3)=2) *Minimum needed bytes: 1*
