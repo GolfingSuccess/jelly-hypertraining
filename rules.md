@@ -1,9 +1,9 @@
 # Rules
 
-1. **Try to avoid spoilers.** Don't quit too fast, and when you see a spoiler don't immediately click it, you won't practice this way.
+1. **Try to avoid spoilers.** Don't quit too fast, and when you see a spoiler don't immediately click it, you won't practice this way. Also, please don't hover over spoiler links without the intention to clck them, as their alt text might in fact be the spoiler itself!
 2. **Too much spoiling should be prevented.** Links to solutions posted by challenge assigners must be spoilers.
 3. **Any link to a solution for an assigned problem must be a spoiler**, if the problem or a related one has been assigned to multiple students at the same time.
-4. **This is NOT a general chatroom for the Jelly programming language, so we can't process feature requests.** It's intended to work like a classroom. You can enroll using the "request access" button. A public general chatroom does exist, however, so we can redirect feature requests there. This room's aim is to aid as much as possible in learning the Jelly language.
+4. **This is NOT a general chatroom for the Jelly programming language, so we can't process feature requests.** It's intended to work like a classroom. You can enroll using the "request access" button. [A public general chatroom](https://chat.stackexchange.com/rooms/32533/jelly) does exist, however, so we can redirect feature requests there. This room's aim is to aid as much as possible in learning the Jelly language.
 5. **Moderators on Codegolf.SE and SE employees aren't exempt from the usual procedure followed by non-diamond users**, and are kindly asked not to abuse their powers.
 6. **Dennis and "experts" have to be students too**, because, well, they can almost certainly still learn things.
 7. **Did you request access by mistake?** Don't worry, it can be quite easily reverted by one of the teachers, but you should think before requesting access somewhere nevertheless.
