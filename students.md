@@ -4,7 +4,7 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 
 |PPCG name|GitHub @username|Level|
 |---------|----------------|-----|
-|[Don't be a x-triple dot](https://codegolf.stackexchange.com/users/59487/mr-xcoder)|Victor Dumbrava ([@Mr-Xcoder](https://github.com/Mr-Xcoder))|4|
+|[Mr. Xcoder](https://codegolf.stackexchange.com/users/59487/mr-xcoder)|Victor Dumbrava ([@Mr-Xcoder](https://github.com/Mr-Xcoder))|4|
 |[HyperNeutrino](https://codegolf.stackexchange.com/users/68942/hyperneutrino)|Alexander Liao ([@alexander-liao](https://github.com/alexander-liao))|4|
 |[caird coinheringaahing](https://codegolf.stackexchange.com/users/66833/caird-coinheringaahing)|cairdcoinheringaahing ([@cairdcoinheringaahing](https://github.com/cairdcoinheringaahing))|3|
 |[user202729](https://codegolf.stackexchange.com/users/69850/user202729)||3|
