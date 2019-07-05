@@ -26,6 +26,7 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 |[Qwerp-Derp](https://codegolf.stackexchange.com/users/49561/qwerp-derp)|Hanyuan Li ([@Qwerp-Derp](https://github.com/Qwerp-Derp))|1|
 |[Sherlock9](https://codegolf.stackexchange.com/users/47581/sherlock9)|[@Sherlock9](https://github.com/Sherlock9)|1|
 |[totallyhuman](https://codegolf.stackexchange.com/users/68615/totallyhuman)|Sumant Bhaskaruni ([@totallyhuman](https://github.com/totallyhuman))|1|
+|[Tristan Wiley](https://codegolf.stackexchange.com/users/63690/tristan-wiley)|Tristan Wiley ([@TristanWiley](https://github.com/TristanWiley))|1|
 |[Ven](https://codegolf.stackexchange.com/users/8328/ven)|ven ([@vendethiel](https://github.com/vendethiel))|1|
 |[Zylviij](https://codegolf.stackexchange.com/users/30134/zylviij)||1|
 |[Adam](https://codegolf.stackexchange.com/users/85825/adam)|Adam Ratzman ([@adamint](https://github.com/adamint))|0|
@@ -40,7 +41,7 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 |[Khuldraeseth na'Barya](https://codegolf.stackexchange.com/users/73884/khuldraeseth-nabarya)||0|
 |[Lynn](https://chat.stackexchange.com/users/136994/lynn)|Lynn ([@lynn](https://github.com/lynn))|0|
 |~~ThePirateBay~~||0|
-|[Tristan Wiley](https://codegolf.stackexchange.com/users/63690/tristan-wiley)|Tristan Wiley ([@TristanWiley](https://github.com/TristanWiley))|0|
+|[Unrelated String](https://codegolf.stackexchange.com/users/85334/unrelated-string)|[@UnrelatedString](https://github.com/UnrelatedString)|0|
 
 ~~Striked~~ students means that their account has been deleted, or they have left the classroom.
 
