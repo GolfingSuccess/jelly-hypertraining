@@ -9,9 +9,9 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 |[caird coinheringaahing](https://codegolf.stackexchange.com/users/66833/caird-coinheringaahing)|cairdcoinheringaahing ([@cairdcoinheringaahing](https://github.com/cairdcoinheringaahing))|3|
 |[user202729](https://codegolf.stackexchange.com/users/69850/user202729)||3|
 |[Bubbler](https://codegolf.stackexchange.com/users/78410/bubbler)|[@Bubbler-4](https://github.com/Bubbler-4)|2|
-|[Christian](https://codegolf.stackexchange.com/users/70388/christian)||2|
 |[Comrade SparklePony](https://codegolf.stackexchange.com/users/64159/binary-barriolage)|Comrade SparklePony ([@ComradeSparklePony](https://github.com/ComradeSparklePony))|2|
 |[DJMcMayhem](https://codegolf.stackexchange.com/users/31716/djmcmayhem) [♦]|[@DJMcMayhem](https://github.com/DJMcMayhem/)|2|
+|[scatter](https://codegolf.stackexchange.com/users/70388/christian)|Christian ([@scatter-dev](https://github.com/scatter-dev))|2|
 |[ATaco](https://codegolf.stackexchange.com/users/58375/ataco)|William Lemon ([@TehFlaminTaco](https://github.com/TehFlaminTaco))|1|
 |[Business Cat](https://codegolf.stackexchange.com/users/53880/business-cat)|Business Cat ([@splcurran](https://github.com/splcurran))|1|
 |[clap](https://codegolf.stackexchange.com/users/41447/clap)||1|
