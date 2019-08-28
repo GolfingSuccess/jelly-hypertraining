@@ -109,7 +109,7 @@ The bytecount is the minimum bytecount users in this class have been able to get
 ```
 *(Minimum needed bytes: 3)*
 + Find the average (e.g. f([1.5, 2.33, 3.1010101, 3.14])=2.517752525) *Minimum needed bytes: 2*
-+ Find the median (e.g. f([-0.1777777777, -2.5, -333333, -444]=-223.25) *Minimum needed bytes: 2*
++ Find the median (e.g. f([-0.1777777777, -2.5, -333333, -444])=-223.25) *Minimum needed bytes: 2*
 + Find the average of the average and median (e.g. f([1, 10, 20, 30])=15.125) *Minimum needed bytes: 6*
 + Find the LCM of a list of integers (e.g. f([4, 8, 12])=24) *Minimum needed bytes: 3*
 + Find the GCD of a list of integers (e.g. f([6, 120])=6) *Minimum needed bytes: 2*
