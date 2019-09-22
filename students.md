@@ -20,6 +20,7 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 |[Jonathan Allan](https://codegolf.stackexchange.com/users/53748/jonathan-allan)|Jonathan Allan ([@jjallan](https://github.com/jjallan))|1|
 |[Kroppeb](https://codegolf.stackexchange.com/users/81957/kroppeb)|[@Kroppeb](https://github.com/Kroppeb)|1|
 |[lirtosiast](https://codegolf.stackexchange.com/users/39328/lirtosiast)|Thomas Kwa ([@tkwa](https://github.com/tkwa))|1|
+|[lolad](https://codegolf.stackexchange.com/users/75059/lolad)||1|
 |[MilkyWay90](https://codegolf.stackexchange.com/users/83048/milkyway90)|[@MilkyWay90](https://github.com/MilkyWay90)|1|
 |[Noah Cristino](https://codegolf.stackexchange.com/users/61877/noah-cristino)|Noah Cristino ([@NoahCristino](https://github.com/NoahCristino))|1|
 |[officialaimm](https://codegolf.stackexchange.com/users/59523/officialaimm)|Ayush Ojha ([@officialaimm](https://github.com/officialaimm))|1|
@@ -40,7 +41,6 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 |[J. Sallé](https://codegolf.stackexchange.com/users/74163/j-salle)||0|
 |[John Militer](https://codegolf.stackexchange.com/users/70852/john-militer)||0|
 |[Khuldraeseth na'Barya](https://codegolf.stackexchange.com/users/73884/khuldraeseth-nabarya)||0|
-|[lolad](https://codegolf.stackexchange.com/users/75059/lolad)||0|
 |[Lynn](https://chat.stackexchange.com/users/136994/lynn)|Lynn ([@lynn](https://github.com/lynn))|0|
 |~~ThePirateBay~~||0|
 |[V. Courtois](https://codegolf.stackexchange.com/users/71499/v-courtois)||0|
