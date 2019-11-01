@@ -7,6 +7,7 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 |[HyperNeutrino](https://codegolf.stackexchange.com/users/68942/hyperneutrino)|Alexander Liao ([@hyper-neutrino](https://github.com/hyper-neutrino))|4|
 |[Mr. Xcoder](https://codegolf.stackexchange.com/users/59487/mr-xcoder)|Victor Dumbrava ([@Mr-Xcoder](https://github.com/Mr-Xcoder))|4|
 |[caird coinheringaahing](https://codegolf.stackexchange.com/users/66833/caird-coinheringaahing)|cairdcoinheringaahing ([@cairdcoinheringaahing](https://github.com/cairdcoinheringaahing))|3|
+|[Unrelated String](https://codegolf.stackexchange.com/users/85334/unrelated-string)|[@UnrelatedString](https://github.com/UnrelatedString)|3|
 |[user202729](https://codegolf.stackexchange.com/users/69850/user202729)||3|
 |[Bubbler](https://codegolf.stackexchange.com/users/78410/bubbler)|[@Bubbler-4](https://github.com/Bubbler-4)|2|
 |[Comrade SparklePony](https://codegolf.stackexchange.com/users/64159/binary-barriolage)|Comrade SparklePony ([@ComradeSparklePony](https://github.com/ComradeSparklePony))|2|
@@ -28,7 +29,6 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 |[Sherlock9](https://codegolf.stackexchange.com/users/47581/sherlock9)|[@Sherlock9](https://github.com/Sherlock9)|1|
 |[totallyhuman](https://codegolf.stackexchange.com/users/68615/totallyhuman)|Sumant Bhaskaruni ([@totallyhuman](https://github.com/totallyhuman))|1|
 |[Tristan Wiley](https://codegolf.stackexchange.com/users/63690/tristan-wiley)|Tristan Wiley ([@TristanWiley](https://github.com/TristanWiley))|1|
-|[Unrelated String](https://codegolf.stackexchange.com/users/85334/unrelated-string)|[@UnrelatedString](https://github.com/UnrelatedString)|1|
 |[Ven](https://codegolf.stackexchange.com/users/8328/ven)|ven ([@vendethiel](https://github.com/vendethiel))|1|
 |[Zylviij](https://codegolf.stackexchange.com/users/30134/zylviij)||1|
 |[Adam](https://codegolf.stackexchange.com/users/85825/adam)|Adam Ratzman ([@adamint](https://github.com/adamint))|0|
