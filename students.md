@@ -16,7 +16,7 @@ Interaction between students is a vital concept for Jelly Hypertraining. Here is
 |[Comrade SparklePony](https://codegolf.stackexchange.com/users/64159/binary-barriolage)|Comrade SparklePony ([@ComradeSparklePony](https://github.com/ComradeSparklePony))|2|
 |[James](https://codegolf.stackexchange.com/users/31716/james)|[@DJMcMayhem](https://github.com/DJMcMayhem/)|2|
 |[scatter](https://codegolf.stackexchange.com/users/70388/christian)|Christian ([@scatter-dev](https://github.com/scatter-dev))|2|
-|[Lyxal](https://github.com/Lyxal)|[@Lyxal](https://github.com/Lyxal)|2|
+|[Lyxal](https://codegolf.stackexchange.com/users/78850/lyxal)|[@Lyxal](https://github.com/Lyxal)|2|
 |[ATaco](https://codegolf.stackexchange.com/users/58375/ataco)|William Lemon ([@TehFlaminTaco](https://github.com/TehFlaminTaco))|1|
 |[Business Cat](https://codegolf.stackexchange.com/users/53880/business-cat)|Business Cat ([@splcurran](https://github.com/splcurran))|1|
 |[clapp](https://codegolf.stackexchange.com/users/41447/clapp)||1|
